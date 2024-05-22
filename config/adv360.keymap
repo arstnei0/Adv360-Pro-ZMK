@@ -92,11 +92,11 @@
 
         symbols {
             bindings = <
-&trans  &trans             &trans            &trans     &trans      &trans          &trans                                      &trans  &trans          &trans            &trans                 &trans             &trans           &trans
-&trans  &kp EXCLAMATION    &kp AT_SIGN       &kp HASH   &kp DOLLAR  &kp PERCENT     &trans                                      &trans  &kp CARET       &kp AMPERSAND     &kp LEFT_PARENTHESIS   &kp ASTERISK       &kp BACKSLASH    &trans
-&trans  &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE  &kp GRAVE  &kp MINUS   &kp UNDERSCORE  &trans  &trans  &trans      &trans  &trans  &trans  &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp EQUAL              &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &trans
-&trans  &kp TILDE          &trans            &trans     &trans      &trans                          &trans      &trans                  &kp COMMA       &kp PERIOD        &kp RIGHT_PARENTHESIS  &kp SLASH          &trans           &trans
-&trans  &trans             &trans            &trans     &trans                      &trans  &trans  &trans      &trans  &trans  &trans                  &trans            &trans                 &trans             &trans           &trans
+&trans  &trans             &trans            &trans          &trans         &trans       &trans                                      &trans  &trans          &trans            &trans                 &trans             &trans           &trans
+&trans  &kp EXCLAMATION    &kp AT_SIGN       &kp HASH        &kp DOLLAR     &kp PERCENT  &trans                                      &trans  &kp CARET       &kp AMPERSAND     &kp LEFT_PARENTHESIS   &kp ASTERISK       &kp BACKSLASH    &trans
+&trans  &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE  &kp UNDERSCORE  &kp MINUS      &kp PLUS     &trans  &trans  &trans      &trans  &trans  &trans  &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp EQUAL              &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &trans
+&trans  &kp TILDE          &kp GRAVE         &kp COLON       &kp SEMICOLON  &trans                       &trans      &trans                  &kp COMMA       &kp PERIOD        &kp RIGHT_PARENTHESIS  &kp SLASH          &trans           &trans
+&trans  &trans             &trans            &trans          &trans                      &trans  &trans  &trans      &trans  &trans  &trans                  &trans            &trans                 &trans             &trans           &trans
             >;
         };
     };
